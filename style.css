@@ -3,7 +3,7 @@
     font-weight: bold;
 }
 
-h2 {
+.v-order {
     color: #3FC4EF;
 }
 
@@ -23,6 +23,6 @@ h2 {
     color: #3FC4EF;
 }
 
-h6 {
+.tl-card {
     text-align: center;
 }
